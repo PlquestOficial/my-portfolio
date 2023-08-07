@@ -1,6 +1,5 @@
 # my-portfolio
-Meu 1º Projeto
 
-Link para visualizar minha página:
+Acesse meu primeiro projeto:
 
 https://plquestoficial.github.io/my-portfolio/
